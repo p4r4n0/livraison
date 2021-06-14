@@ -1,0 +1,37 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic');
+// iCheck
+// AdminLTE
+@import '~@fortawesome/fontawesome-free/css/all.css';
+// OverlayScrollbars
+@import '~overlayscrollbars/css/OverlayScrollbars.css';
+// iCheck
+@import '~icheck-bootstrap/icheck-bootstrap.css';
+
+@import '../../vendor/almasaeed2010/adminlte/dist/css/adminlte.min.css';
+// Bootstrap
+// Already imported by AdminLTE
+//@import '~bootstrap/scss/bootstrap';
+
+.modal-body {
+    background-color: #fff;
+    border-color: #fff
+}
+
+.close {
+    color: #000;
+    cursor: pointer
+}
+
+.close:hover {
+    color: #000
+}
+
+.theme-color {
+    color: #004cb9
+}
+
+hr.new1 {
+    border-top: 2px dashed #fff;
+    margin: 0.4rem 0
+}
